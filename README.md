@@ -53,11 +53,15 @@ Open Visual Studio Code and Open Setting "Ctrl +，"，paste the Configuration p
 
 Create the New File , such as *.tex . 
 
-#### 5.Build Project
+#### 5.Add Path
+
+Add "%SystemRoot%\system32" to Environment variables Key Value
+
+#### 6.Build Project
 
 Use Hotkey , Ctrl + Alt + B  \ Ctrl + S
 
-#### 6.Preview PDF files
+#### 7.Preview PDF files
 
 After successful compilation, You can see the form at preview in the PDF file. The PDF Files on the Right Window.
 
